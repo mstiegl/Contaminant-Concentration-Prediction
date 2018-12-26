@@ -1,2 +1,2 @@
 # Contaminant-Concentration-Prediction
-This is a project during my master study period.
+Based on weather data and historical air quality data, this project predicts the concentration of pollutants (including PM2.5, PM10 and O3) at 35 meteorological stations in Beijing for the next 48 hours. Firstly, I use the time and space features, build the model to fill the missing value on the original data set, and then use the weather features, historical pollutant concentration values, and time features to construct the feature engineering, and then obtain more than 100 features. Finally, I built GradientBoost, RandomForest, and LightGBM. I use ensemble learning to predict the concentration of pollutants, and the smape error is about 0.5.
