@@ -5,6 +5,6 @@ Based on weather data and historical air quality data, this project predicts the
 
 [The data for this project](https://github.com/YimiaoSun/Contaminant-Concentration-Prediction/tree/master/dataset)
 
-[Coding Solutions] (https://github.com/YimiaoSun/Contaminant-Concentration-Prediction/tree/master/code)
+[Coding Solutions](https://github.com/YimiaoSun/Contaminant-Concentration-Prediction/tree/master/code)
 
 Note: This project is made by SUN Yimiao and LIU Ziwan.
